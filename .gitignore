@@ -1,0 +1,11 @@
+# Rider
+.idea
+
+# VSCode
+.vscode
+
+*.sdf
+bin/
+obj/
+Debug/
+Release/
